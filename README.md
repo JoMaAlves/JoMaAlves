@@ -1,6 +1,10 @@
-## Hey there, I'm João Marcelo Alves 👋
+<h2 align="center">
+  Hey there, I'm João Marcelo Alves 👋
+</h2>
 
-I am a **Computer Science Student at Cesar School** and a **Software Engineer Intern at Liferay**. Currently, trying to stablish myself as Front-end and Software developer with Javascript. Looking forward to develop my skills and network.
+<div align="center">
+  I am a **Computer Science Student at Cesar School** and a **Software Engineer Intern at Liferay**. Currently, trying to stablish myself as Front-end and Software developer with    Javascript. Looking forward to develop my skills and network.
+ </div>
 
 <!--
 **JoMaAlves/JoMaAlves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
