@@ -3,7 +3,7 @@
 </h2>
 
 <div align="center">
-  I am a **Computer Science Student at Cesar School** and a **Software Engineer Intern at Liferay**. Currently, trying to stablish myself as Front-end and Software developer with    Javascript. Looking forward to develop my skills and network.
+  I am a <strong>Computer Science Student at Cesar School</strong> and a <strong>Software Engineer Intern at Liferay</strong>. Currently, trying to stablish myself as Front-end and Software developer with    Javascript. Looking forward to develop my skills and network.
  </div>
 
 <!--
