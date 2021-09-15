@@ -4,12 +4,14 @@
 
 <div align="center">
   I am a <strong>Computer Science Student at Cesar School</strong> and a <strong>Software Engineer Intern at Liferay</strong>. Currently, trying to stablish myself as Front-end and Software developer with    Javascript. Looking forward to develop my skills and network.
- </div>
+</div>
 
- <div>
+#
+
+<div>
   <a href="https://github.com/JoMaAlves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoMaAlves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoMaAlves&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoMaAlves&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoMaAlves&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 <!--
