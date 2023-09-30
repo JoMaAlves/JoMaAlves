@@ -3,7 +3,7 @@
 </h2>
 
 <div>
-  I am a recent <strong>Computer Science graduate</strong> from Cesar School and currently hold the position of <strong>Associate Software Engineer</strong> at Liferay. My focus lies in establishing myself as a proficient <strong>Front-end</strong> and <strong>Software Developer</strong> with expertise in <strong>JavaScript</strong>, particularly in the realm of <strong>React</strong>. I am enthusiastic about advancing my skills and expanding my professional network within the field.
+  I am a <strong>Computer Science graduate</strong> from Cesar School and currently hold the position of <strong>Associate Software Engineer</strong> at Liferay. My focus lies in establishing myself as a proficient <strong>Front-end</strong> and <strong>Software Developer</strong> with expertise in <strong>JavaScript</strong>, particularly in the realm of <strong>React</strong>. I am enthusiastic about advancing my skills and expanding my professional network within the field.
 </div>
 
 #
